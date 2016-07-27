@@ -5,10 +5,6 @@ alias ~='cd ~'
 alias rm='rm -i'
 alias mv='mv -i'
 
-alias aliases='subl ~/.aliases'
-
-alias cdhtdocs='cd /Applications/MAMP/htdocs/'
-alias hosts='sudo subl /etc/hosts'
 alias cdp='cd ~/Documents/Projects'
 
 # Detect which `ls` flavor is in use

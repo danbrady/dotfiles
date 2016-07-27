@@ -1,6 +1,4 @@
 export CLICOLOR=1
-export PATH=/usr/local/bin:/Users/dbrady/bin/Sencha/Cmd/4.0.0.203:$PATH
-export SENCHA_CMD_3_0_0="/Users/dbrady/bin/Sencha/Cmd/4.0.0.203"
 
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
 

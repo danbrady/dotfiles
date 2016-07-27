@@ -7,6 +7,8 @@ set completion-ignore-case on
 "\e[A": history-search-backward
 
 # ctrl left, ctrl right for moving on the readline by word
+# NOTE: Might conflict with Mission Control/Spaces default keystrokes on Macs
+# System Preferences -> Keyboard -> Shortcuts -> Mission Control, Move left/right a space
 "\e[1;5C": forward-word
 "\e[1;5D": backward-word
 
